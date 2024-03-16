@@ -1,6 +1,6 @@
 ##  Short(URL) King
 
-Your challenge is to design a system similar to https://tinyurl.com/. 
+Your challenge is to design a system similar to https://tinyurl.com/ named https://short.king/.
 
 ### API
 The user should be able to hit your api on the following routes.
