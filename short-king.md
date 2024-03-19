@@ -16,6 +16,9 @@ GET `/<..short_url..>`
 
 > Return a `404 Not Found` status code if the `short_url` has not been generated
 
+GET `/`
+> Return a form to create an shortened url
+
 You may store your data in any manner so long as these two end points behave appropriately. 
 
 Take your time and map out your solution. 
