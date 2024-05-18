@@ -19,13 +19,6 @@ GET `/<..short_url..>`
 GET `/`
 > Return a form to create an shortened url
 
-You may store your data in any manner so long as these two end points behave appropriately. 
-
-Take your time and map out your solution. 
-
-Consider writing up a few ADR's (Architectural Decision Records) https://adr.github.io/. 
-
-
 ## Additional Challenges 
 The following questions are designed to emulate real problems a team may encounter. They are good things to consider but are not expected to be solved in this challenge. 
 
